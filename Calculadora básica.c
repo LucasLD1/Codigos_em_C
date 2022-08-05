@@ -1,4 +1,4 @@
-// O código a seguir é uma calculadora que realiza as operações básicas entre dois números, mostrando o resultado com até três casas decimais
+// O cÃ³digo a seguir Ã© uma calculadora que realiza as operaÃ§Ãµes bÃ¡sicas entre dois nÃºmeros, mostrando o resultado com atÃ© duas casas decimais
 
 #include <stdio.h>
 
@@ -21,7 +21,7 @@ int main(){
 		scanf("%f", &num2);
 		
 		
-		// Decisão de qual operador aritmético irá usar
+		// DecisÃ£o de qual operador aritmÃ©tico irÃ¡ usar
 		printf("Escolha qual operacao sera realizada digitando o numero respectivo:\n");
 		printf("Soma - 1\n");
 		printf("Subtracao - 2\n");
@@ -46,7 +46,7 @@ int main(){
 	    }
 		
 		
-		// Saída de dados
+		// SaÃ­da de dados
 		printf("O resultado e: %.2f\n", result);
 		
 		printf("Deseja continuar usando a calculadora\n");
